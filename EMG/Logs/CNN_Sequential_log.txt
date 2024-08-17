@@ -1,0 +1,10 @@
+epoch: 1 |  MSE_loss: 1723.11 | norm: 0.18 | lr:0.080 | val loss:2416.20
+epoch: 2 |  MSE_loss: 1618.45 | norm: 1265.87 | lr:0.080 | val loss:24671.79
+epoch: 3 |  MSE_loss: 32237.67 | norm: 26724.70 | lr:0.027 | val loss:1758.84
+epoch: 4 |  MSE_loss: 2810.42 | norm: 3614.15 | lr:0.018 | val loss:773.17
+epoch: 5 |  MSE_loss: 776.89 | norm: 304.21 | lr:0.013 | val loss:1102.83
+epoch: 6 |  MSE_loss: 747.85 | norm: 375.27 | lr:0.010 | val loss:777.97
+epoch: 7 |  MSE_loss: 645.74 | norm: 119.33 | lr:0.008 | val loss:855.27
+epoch: 8 |  MSE_loss: 611.42 | norm: 158.09 | lr:0.007 | val loss:714.00
+epoch: 9 |  MSE_loss: 614.57 | norm: 301.08 | lr:0.006 | val loss:844.66
+epoch: 10 |  MSE_loss: 568.61 | norm: 108.86 | lr:0.006 | val loss:776.64
